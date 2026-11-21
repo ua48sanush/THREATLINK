@@ -1,2 +1,3 @@
 # THREATLINK
 Evidence-supported dark-web threat-actor intelligence, hidden-service infrastructure correlation, AI stylometric persona analysis, and temporal attribution platform.
+This folder contains the researched data and the main presentation about the Threat_Link application...
